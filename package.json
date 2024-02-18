@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.3.4",
+    "@astrojs/language-server": "^2.7.4",
     "@astrojs/tailwind": "^5.1.0",
     "@astrojs/vue": "^4.0.8",
     "@fontsource-variable/jetbrains-mono": "^5.0.19",
@@ -24,6 +25,8 @@
     "mdast-util-to-string": "^4.0.0",
     "overlayscrollbars": "^2.4.6",
     "pagefind": "^1.0.4",
+    "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.13.0",
     "reading-time": "^1.5.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-katex": "^7.0.0",

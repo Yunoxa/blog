@@ -7,48 +7,44 @@ import type {
 import { LinkPreset } from './types/config.ts'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: "Yuno's Dungeon",
+  subtitle: "Yuno's Site",
   lang: 'en',
-  themeHue: 250,
+  themeHue: 0,
   banner: {
     enable: true,
-    src: 'assets/images/demo-banner.png',
+    src: 'assets/images/banner.jpg',
   },
 }
 
 export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.Home,
+    LinkPreset.Posts,
     LinkPreset.Archive,
     LinkPreset.About,
-    {
-      name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',
-      external: true,
-    },
   ],
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  avatar: 'assets/images/profile.png',
+  name: 'Yunoxa',
+  bio: 'Music producer and hobbyist developer~',
   links: [
     {
       name: 'Twitter',
       icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
+      url: 'https://twitter.com/Yunoxaa',
     },
     {
       name: 'Steam',
       icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      url: 'https://steamcommunity.com/id/Yunoxa/',
     },
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/Yunoxa/',
     },
   ],
 }

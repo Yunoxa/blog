@@ -26,6 +26,11 @@ function getLinkPresetInfo(p: LinkPreset): NavBarLink {
         case LinkPreset.Home:
             return {
                 name: i18n(I18nKey.home),
+                url: "/"
+            };
+        case LinkPreset.Posts:
+            return {
+                name: i18n(I18nKey.posts),
                 url: "/page/1"
             };
         case LinkPreset.Archive:
