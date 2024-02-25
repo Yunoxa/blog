@@ -1,7 +1,7 @@
 # About
 Hi! I'm Yunoxa. I'm a music producer, sound design student, and kinda software developer based in the UK. Yeah, not really sure what else to put here, I'm not that exciting. Here, take a bunch of random unnecessary information to fill out the page!
 
-## Likes
+## Interests
 - Music
 - Guitar
 - Programming
@@ -18,12 +18,6 @@ Hi! I'm Yunoxa. I'm a music producer, sound design student, and kinda software d
 - Japan
 - Vtubers
 - Rain (its comfy)
-
-## Dislikes
-- Bad stuff
-- Things that arent great
-- Waking up early
-- Pizza (with pineapple)
 
 ## PC Specs (beef pc)
 - GPU: AMD Radeon 7600
