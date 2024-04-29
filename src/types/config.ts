@@ -12,10 +12,9 @@ export type SiteConfig = {
 }
 
 export enum LinkPreset {
-  Home = 0,
-  Posts = 1,
-  Archive = 2,
-  About = 3,
+  Posts = 0,
+  Archive = 1,
+  About = 2,
 }
 
 export type NavBarLink = {
